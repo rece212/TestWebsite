@@ -11,6 +11,8 @@ This repository can be added as an **extension** in MakeCode.
 * search for **https://github.com/rece212/testwebsite** and import
 
 ## Edit this project
+![VCNMB SoIT](https://github.com/rece212/TestWebsite/assets/1363833/d8a685f8-f64a-411f-b07d-bbbb37f6809b)
+
 
 To edit this repository in MakeCode.
 
